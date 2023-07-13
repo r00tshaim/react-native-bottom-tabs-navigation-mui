@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "react-native-bottom-tabs-navigation-mui",
+    "slug": "react-native-bottom-tabs-navigation-mui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
