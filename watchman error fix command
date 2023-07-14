@@ -1,0 +1,1 @@
+watchman watch-del-all && watchman shutdown-server &&  npm cache clean --force && npx expo start
